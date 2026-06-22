@@ -16,8 +16,16 @@ Hi there! 👋 I'm **Miryala Aakash Reddy**
 
 ## 🌐 Socials
 
-- LinkedIn: https://www.linkedin.com/in/aakashreddy-miryala-3561842b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: aakashreddymiryala@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+</p>
+
 
 ## 💻 Tech Stack
 
