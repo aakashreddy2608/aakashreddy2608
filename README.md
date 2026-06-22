@@ -30,26 +30,35 @@ Hi there! 👋 I'm **Miryala Aakash Reddy**
 ## 💻 Tech Stack
 
 ### Languages
-- Java
-- Python
-- JavaScript
-- C
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c" />
+</p>
 
 ### Web Development
-- HTML5
-- CSS3
-- React.js
-- Node.js
-- Express.js
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
 ### Database
-- MySQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Other
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
 
 ## 🚀 Projects
 
